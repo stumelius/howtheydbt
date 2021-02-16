@@ -13,9 +13,22 @@ Many companies regularly come forward and share their best practices and techniq
 
 * Model organization
 * Testing
-* Continuous integration
+* Continuous integration & running dbt in production
 
 ## Organizations & how they use dbt
+
+<details>
+  <summary>Fishtown Analytics</summary>
+
+#### Resources
+
+* [dbt Best practices](https://docs.getdbt.com/docs/guides/best-practices/)
+* [How we structure our dbt projects](https://discourse.getdbt.com/t/how-we-structure-our-dbt-projects/355)
+* [dbt example projects](https://docs.getdbt.com/faqs/example-projects/)
+* [Running dbt in Production](https://docs.getdbt.com/docs/running-a-dbt-project/running-dbt-in-production/)
+* [Enabling CI in dbt Cloud](https://docs.getdbt.com/docs/dbt-cloud/using-dbt-cloud/cloud-enabling-continuous-integration-with-github/)
+
+</details>
 
 <details>
   <summary>GitLab</summary>
@@ -26,6 +39,13 @@ Many companies regularly come forward and share their best practices and techniq
 * [GitLab Data Team Handbook - dbt Guide](https://about.gitlab.com/handbook/business-ops/data-team/platform/dbt-guide/)
 
 </details>
+
+---
+## Blog posts
+
+* [Practical tips to get the best out of Data Build Tool (dbt) — Part 1](https://medium.com/photobox-technology-product-and-design/practical-tips-to-get-the-best-out-of-data-building-tool-dbt-part-1-8cfa21ef97c5)
+* [Practical tips to get the best out of Data Build Tool (dbt) — Part 2](https://medium.com/photobox-technology-product-and-design/practical-tips-to-get-the-best-out-of-data-build-tool-dbt-part-2-a3581c76723c)
+* [One analyst's guide for going from good to great](https://blog.getdbt.com/one-analysts-guide-for-going-from-good-to-great/)
 
 ## Contributors
 
