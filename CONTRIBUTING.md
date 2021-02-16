@@ -1,11 +1,7 @@
 # Contribution Guidelines
 
 Please note that this project is released with a
-<<<<<<< HEAD
 [Contributor Code of Conduct](CODE-OF-CONDUCT.md). By participating in this
-=======
-[Contributor Code of Conduct](code-of-conduct.md). By participating in this
->>>>>>> main
 project you agree to abide by its terms.
 
 ---
