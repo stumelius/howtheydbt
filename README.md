@@ -1,4 +1,4 @@
-# How They Dbt
+# How They dbt
 [![Contributions Welcome!](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 
 > A curated collection of publicly available resources on how data-driven organizations around the world utilize [dbt](https://www.getdbt.com/)
