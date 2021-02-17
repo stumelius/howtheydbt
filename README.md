@@ -17,6 +17,19 @@ Many companies regularly come forward and share their best practices and techniq
 
 ## Organizations & how they use dbt
 
+
+<details>
+  <summary>Dagster</summary>
+
+#### Resources
+
+* [Dagster and dbt: Better Together](https://dagster.io/blog/dagster-dbt)
+* [dbt Examples](https://docs.dagster.io/examples/dbt_example)
+* Identifying model deprecation and optimization candidates + exposure updates: [Good Data at Good Eggs: Using Dagster to manage the data platform](https://dagster.io/blog/good-eggs-3)
+* [Orchestrating dbt with Dagster (video)](https://www.getdbt.com/coalesce/agenda/orchestrating-dbt-with-dagster)
+
+</details>
+
 <details>
   <summary>Fishtown Analytics</summary>
 
