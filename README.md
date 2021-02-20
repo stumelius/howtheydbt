@@ -60,6 +60,26 @@ Many companies regularly come forward and share their best practices and techniq
 * [Practical tips to get the best out of Data Build Tool (dbt) — Part 2](https://medium.com/photobox-technology-product-and-design/practical-tips-to-get-the-best-out-of-data-build-tool-dbt-part-2-a3581c76723c)
 * [One analyst's guide for going from good to great](https://blog.getdbt.com/one-analysts-guide-for-going-from-good-to-great/)
 
+
+---
+## Ecosystem
+
+dbt packages make up a significant portion of the dbt ecosystem and there's an existing list of packages in the [dbt hub](https://hub.getdbt.com/). This section focuses on adapters and other tools, such as CLIs and linters, related to dbt development.
+
+### dbt adapters
+Adapters that are not listed in the [list of Fishtown and community supported adapters](https://docs.getdbt.com/docs/available-adapters/):
+
+* [dbt-athena - AWS Athena adapter](https://github.com/Tomme/dbt-athena)
+
+### dbt tools
+* [dbt-helper - A helper tool for dbt development and data warehouse management](https://github.com/mikekaminsky/dbt-helper)
+* [pre-commit-dbt - Pre-commit hooks to ensure the quality of your dbt projects](https://github.com/offbi/pre-commit-dbt)
+
+
+### Related tools
+* [SQLFluff - A SQL linter and auto-formatter](https://github.com/sqlfluff/sqlfluff)
+
+
 ## Contributors
 
 <a href="https://github.com/smomni/howtheydbt/graphs/contributors">
