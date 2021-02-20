@@ -69,7 +69,7 @@ dbt packages make up a significant portion of the dbt ecosystem and there's an e
 ### dbt adapters
 Adapters that are not listed in the [list of Fishtown and community supported adapters](https://docs.getdbt.com/docs/available-adapters/):
 
-* [dbt-athena](https://github.com/Tomme/dbt-athena)
+* [dbt-athena - AWS Athena adapter](https://github.com/Tomme/dbt-athena)
 
 ### dbt tools
 * [dbt-helper - A helper tool for dbt development and data warehouse management](https://github.com/mikekaminsky/dbt-helper)
