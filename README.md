@@ -37,6 +37,9 @@ Many companies regularly come forward and share their best practices and techniq
 
 * [dbt Best practices](https://docs.getdbt.com/docs/guides/best-practices/)
 * [How we structure our dbt projects](https://discourse.getdbt.com/t/how-we-structure-our-dbt-projects/355)
+* [dbt coding conventions](https://github.com/fishtown-analytics/corp/blob/master/dbt_coding_conventions.md)
+* [Your Essential dbt Project Checklist](https://discourse.getdbt.com/t/your-essential-dbt-project-checklist/1377)
+* [Representing non-SQL models in a dbt DAG](https://discourse.getdbt.com/t/representing-non-sql-models-in-a-dbt-dag/2083)
 * [dbt example projects](https://docs.getdbt.com/faqs/example-projects/)
 * [Running dbt in Production](https://docs.getdbt.com/docs/running-a-dbt-project/running-dbt-in-production/)
 * [Enabling CI in dbt Cloud](https://docs.getdbt.com/docs/dbt-cloud/using-dbt-cloud/cloud-enabling-continuous-integration-with-github/)
