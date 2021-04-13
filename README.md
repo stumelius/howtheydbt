@@ -56,17 +56,21 @@ Many companies regularly come forward and share their best practices and techniq
 
 </details>
 
+<details>
+  <summary>Snaptravel</summary>
+
+#### Resources
+
+* [How to structure a data team (Coalesce 2020)](https://youtu.be/qldh7QeeLu8)
+
+</details>
+
 ---
 ## Blog posts
 
 * [Practical tips to get the best out of Data Build Tool (dbt) — Part 1](https://medium.com/photobox-technology-product-and-design/practical-tips-to-get-the-best-out-of-data-building-tool-dbt-part-1-8cfa21ef97c5)
 * [Practical tips to get the best out of Data Build Tool (dbt) — Part 2](https://medium.com/photobox-technology-product-and-design/practical-tips-to-get-the-best-out-of-data-build-tool-dbt-part-2-a3581c76723c)
 * [One analyst's guide for going from good to great](https://blog.getdbt.com/one-analysts-guide-for-going-from-good-to-great/)
-
-## Videos and conference talks
-
-* [How to structure a data team (Snaptravel, Coalesce 2020)](https://youtu.be/qldh7QeeLu8)
-
 
 ---
 ## Ecosystem
