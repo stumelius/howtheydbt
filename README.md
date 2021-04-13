@@ -63,6 +63,10 @@ Many companies regularly come forward and share their best practices and techniq
 * [Practical tips to get the best out of Data Build Tool (dbt) — Part 2](https://medium.com/photobox-technology-product-and-design/practical-tips-to-get-the-best-out-of-data-build-tool-dbt-part-2-a3581c76723c)
 * [One analyst's guide for going from good to great](https://blog.getdbt.com/one-analysts-guide-for-going-from-good-to-great/)
 
+## Videos and conference talks
+
+* [How to structure a data team (Snaptravel, Coalesce 2020)](https://youtu.be/qldh7QeeLu8)
+
 
 ---
 ## Ecosystem
@@ -77,6 +81,7 @@ Adapters that are not listed in the [list of Fishtown and community supported ad
 ### dbt tools
 * [dbt-helper - A helper tool for dbt development and data warehouse management](https://github.com/mikekaminsky/dbt-helper)
 * [pre-commit-dbt - Pre-commit hooks to ensure the quality of your dbt projects](https://github.com/offbi/pre-commit-dbt)
+* [dbt-sugar - A tool for measuring test and documentation coverage of your dbt projects](https://github.com/bitpicky/dbt-sugar)
 
 
 ### Related tools
