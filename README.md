@@ -87,6 +87,7 @@ Adapters that are not listed in the [list of Fishtown and community supported ad
 * [pre-commit-dbt - Pre-commit hooks to ensure the quality of your dbt projects](https://github.com/offbi/pre-commit-dbt)
 * [dbt-sugar - A tool for measuring test and documentation coverage of your dbt projects](https://github.com/bitpicky/dbt-sugar)
 * [dbt-container-skeleton - Easily set up a containerized dbt developer environment](https://github.com/gnilrets/dbt-container-skeleton)
+* [dbt-ipy - Run dbt commands inside a IPython session (Jupyter notebook)](https://github.com/jmriego/dbt-ipy)
 
 ### Related tools
 * [SQLFluff - A SQL linter and auto-formatter](https://github.com/sqlfluff/sqlfluff)
