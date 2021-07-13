@@ -89,6 +89,7 @@ Adapters that are not listed in the [list of Fishtown and community supported ad
 * [dbt-container-skeleton - Easily set up a containerized dbt developer environment](https://github.com/gnilrets/dbt-container-skeleton)
 * [dbt-ipy - Run dbt commands inside a IPython session (Jupyter notebook)](https://github.com/jmriego/dbt-ipy)
 * [dbt-profiler - A tool for profiling dbt relations](https://github.com/data-mie/dbt-profiler)
+* [dbt-datamocktool - A simple package for unit testing dbt projects](https://github.com/mjirv/dbt-datamocktool)
 
 ### Related tools
 * [SQLFluff - A SQL linter and auto-formatter](https://github.com/sqlfluff/sqlfluff)
