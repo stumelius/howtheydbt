@@ -31,12 +31,13 @@ Many companies regularly come forward and share their best practices and techniq
 </details>
 
 <details>
-  <summary>Fishtown Analytics</summary>
+  <summary>dbt Labs</summary>
 
 #### Resources
 
 * [dbt Best practices](https://docs.getdbt.com/docs/guides/best-practices/)
 * [How we structure our dbt projects](https://discourse.getdbt.com/t/how-we-structure-our-dbt-projects/355)
+* [Auditing model layers and modularity with your DAG (Coalesce 2020)](https://www.getdbt.com/coalesce/agenda/auditing-model-layers-and-modularity-with-your-dag.html)
 * [dbt coding conventions](https://github.com/fishtown-analytics/corp/blob/master/dbt_coding_conventions.md)
 * [Your Essential dbt Project Checklist](https://discourse.getdbt.com/t/your-essential-dbt-project-checklist/1377)
 * [Representing non-SQL models in a dbt DAG](https://discourse.getdbt.com/t/representing-non-sql-models-in-a-dbt-dag/2083)
@@ -90,6 +91,7 @@ Adapters that are not listed in the [list of Fishtown and community supported ad
 * [dbt-ipy - Run dbt commands inside a IPython session (Jupyter notebook)](https://github.com/jmriego/dbt-ipy)
 * [dbt-profiler - A tool for profiling dbt relations](https://github.com/data-mie/dbt-profiler)
 * [dbt-datamocktool - A simple package for unit testing dbt projects](https://github.com/mjirv/dbt-datamocktool)
+* [olivertwist - A dag auditing tool that audits the dbt dag and generates a summary report](https://github.com/autotraderuk/oliver-twist/)
 
 ### Related tools
 * [SQLFluff - A SQL linter and auto-formatter](https://github.com/sqlfluff/sqlfluff)
