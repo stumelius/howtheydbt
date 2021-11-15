@@ -97,6 +97,13 @@ Adapters that are not listed in the [list of Fishtown and community supported ad
 * [SQLFluff - A SQL linter and auto-formatter](https://github.com/sqlfluff/sqlfluff)
 * [dtspec - Run unit-test style tests for data transformations, includes dbt-specific CLI](https://github.com/inside-track/dtspec)
 
+## Other curated dbt collections
+
+There are plenty of other dbt collections out there. Here's a few:
+
+* [awesome-dbt - A curated list of awesome dbt resources](https://github.com/Hiflylabs/awesome-dbt)
+* [dbt-tips - A collection of dbt Tips and Tricks](https://github.com/erika-e/dbt-tips)
+
 
 ## Contributors
 
