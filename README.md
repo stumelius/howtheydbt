@@ -92,6 +92,7 @@ Adapters that are not listed in the [list of Fishtown and community supported ad
 * [dbt-profiler - A tool for profiling dbt relations](https://github.com/data-mie/dbt-profiler)
 * [dbt-datamocktool - A simple package for unit testing dbt projects](https://github.com/mjirv/dbt-datamocktool)
 * [olivertwist - A dag auditing tool that audits the dbt dag and generates a summary report](https://github.com/autotraderuk/oliver-twist/)
+* [fal - A tool for running Python inside your dbt project](https://github.com/fal-ai/fal)
 
 ### Related tools
 * [SQLFluff - A SQL linter and auto-formatter](https://github.com/sqlfluff/sqlfluff)
