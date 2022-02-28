@@ -87,6 +87,7 @@ Adapters that are not listed in the [list of Fishtown and community supported ad
 * [dbt-helper - A helper tool for dbt development and data warehouse management](https://github.com/mikekaminsky/dbt-helper)
 * [pre-commit-dbt - Pre-commit hooks to ensure the quality of your dbt projects](https://github.com/offbi/pre-commit-dbt)
 * [dbt-sugar - A tool for measuring test and documentation coverage of your dbt projects](https://github.com/bitpicky/dbt-sugar)
+* [dbt-helper - A helper tool for dbt development and data warehouse management.](https://github.com/mikekaminsky/dbt-helper)
 * [dbt-container-skeleton - Easily set up a containerized dbt developer environment](https://github.com/gnilrets/dbt-container-skeleton)
 * [dbt-ipy - Run dbt commands inside a IPython session (Jupyter notebook)](https://github.com/jmriego/dbt-ipy)
 * [dbt-profiler - A tool for profiling dbt relations](https://github.com/data-mie/dbt-profiler)
@@ -97,6 +98,7 @@ Adapters that are not listed in the [list of Fishtown and community supported ad
 ### Related tools
 * [SQLFluff - A SQL linter and auto-formatter](https://github.com/sqlfluff/sqlfluff)
 * [dtspec - Run unit-test style tests for data transformations, includes dbt-specific CLI](https://github.com/inside-track/dtspec)
+* [dbt-datamocktool - A dbt package for unit testing your SQL analytics models](https://github.com/mjirv/dbt-datamocktool)
 
 ## Other curated dbt collections
 
